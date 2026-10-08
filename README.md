@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Nargess 👋
 
-<!--
-**NargeseMP-dev/NargeseMP-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Front-End Developer | Web Design & UI/UX
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently learning front-end development and UI/UX design.
+I enjoy creating websites, exploring design, and turning ideas into projects.
+
+## Skills & Tools
+
+- HTML
+- CSS
+- JavaScript
+- Figma
+
+## What I'm Working On
+
+🌱 Improving my front-end development skills  
+🎨 Exploring UI/UX design  
+💻 Building projects and learning through practice
+
+## Let's Connect
+
+[LinkedIn](https://www.linkedin.com/in/narges-mp-73427b379/)
